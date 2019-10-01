@@ -2,7 +2,7 @@
 
 # Typography Practice
 
-Use this template to structure your READMEs for labs.
+![Seahorse Site Mock](./images/mock.png)
 
 ## Prerequisites
 
