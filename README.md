@@ -26,6 +26,12 @@ Don't forget to add and commit your changes as you work through these
 1. Link the stylesheet to the HTML document. Be sure you make sure they are linked before you move on!
 1. Update `style.css` to make your web page look as close as possible to the example image. We won't be checking for exact fonts or color codes, but use the tools you have (like Digital Color Meter and what you know about fallbacks for the font family property) to choose styles that are similar.
 
+![Colors](./images/colors.png)
+
+![Typeface](./images/typeface.png)
+
+![Font Family](./images/font-family.png)
+
 ## Bonus
 
 1. Try importing a Google Font and changing the style for your header elements to what you have selected.
